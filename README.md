@@ -1,5 +1,7 @@
 # Simulados de Java
 
+> Os exercícios foram reunidos em [estudos-programacao](https://github.com/jhonmnf/estudos-programacao/tree/main/java/simulados). Novos exercícios devem ser adicionados ao repositório central; este repositório preserva a origem do material.
+
 Coleção de seis exercícios de Java executados pelo terminal, com classes de entrada em `tarefasimulado/src/tarefasimulado/`.
 
 ## Requisitos
